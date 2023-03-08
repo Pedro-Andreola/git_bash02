@@ -1,4 +1,7 @@
 body{
     background-image: url(gremio.png);
     background-color: deepskyblue;
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
 }
